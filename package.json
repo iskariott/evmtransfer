@@ -1,0 +1,16 @@
+{
+    "name": "evmtransfer",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "dependencies": {
+        "ethers": "^6.12.1"
+    }
+}
